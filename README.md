@@ -1,7 +1,7 @@
 ### Hi there, my name is **Ilia Kirsanov**! 👋
-## I'm a *Junior Frontend developer* from Moscow.
+## I'm a Junior Frontend developer from Moscow.
 
-### Tech Stack
+### Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
