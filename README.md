@@ -18,5 +18,4 @@
 ![Trello](https://img.shields.io/badge/-Trello-090909?style=for-the-badge&logo=Trello)
 ![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma)
 
-### ✉️ Mail me: kirsanovia@yandex.ru
-### 🌐 Telegram: @kirsanovia
+### 🌐 LinkedIn: https://www.linkedin.com/in/kirsanovia/
