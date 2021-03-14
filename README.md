@@ -18,3 +18,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira-software&logoColor=0052CC)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0079BF)&nbsp;
+<br />
+### ⚙️ GitHub Analytics
+
+<img height="160em" align="left" alt="Ilia Kirsanov's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rejth&theme=radical&show_icons=true" />
+<img height="160em" align="right" alt="Ilia Kirsanov's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rejth&theme=radical&layout=compact" />
