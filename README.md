@@ -24,4 +24,6 @@
 
 [![Rejth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rejth&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img height="160em" align="right" alt="Ilia Kirsanov's Github Lnguages" src="https://github-readme-stats.vercel.app/api?username=rejth&theme=radical&layout=compact" />
+
 <img height="160em" align="right" alt="Ilia Kirsanov's Github Lnguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rejth&theme=radical&layout=compact" />
