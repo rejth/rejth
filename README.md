@@ -1,5 +1,5 @@
-### Hi there, my name is **Ilia Kirsanov**! 👋
-## I'm a Frontend developer from 📍Moscow.
+### Hi there, my name is **Ilya Kirsanov**! 👋
+## I'm a Frontend developer from 📍Russia.
 
 ### 💻 Tech Stack:
 
